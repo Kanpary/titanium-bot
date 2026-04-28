@@ -1,0 +1,12 @@
+{
+  "name": "titanium-3000-bot",
+  "version": "3.0.0",
+  "description": "PROTOCOLO TITANIUM 3000.0 — Bot Telegram Forense",
+  "main": "bot_server.js",
+  "scripts": {
+    "start": "node bot_server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
